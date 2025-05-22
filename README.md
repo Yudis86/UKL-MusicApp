@@ -13,4 +13,4 @@ Aplikasi Flutter untuk UKL dengan tampilan bergaya Apple Music.
 
 ## Preview Halaman Login
 
-![Login Screen](https://github.com/Yudis86/UKL-MusicApp/blob/main/Screenshot 2025-05-22 200624?raw=true)
+![Login Screen]https://github.com/Yudis86/UKL-MusicApp/blob/main/Screenshot%202025-05-22%20200624.png
