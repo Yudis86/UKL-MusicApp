@@ -1,16 +1,16 @@
-# ukl_2025
+# Music App 🎵
 
-A new Flutter project.
+Aplikasi Flutter untuk UKL dengan tampilan bergaya Apple Music.
 
-## Getting Started
+## Halaman Login 🔐
 
-This project is a starting point for a Flutter application.
+- Pengguna dapat login menggunakan `username` dan `password`
+- Fitur show/hide password
+- Jika berhasil login: 🎉 Selamat datang, <username>!
+- Username contoh:
+  - Username: `kminchelle`
+  - Password: `0lelplR`
 
-A few resources to get you started if this is your first Flutter project:
+## Preview Halaman Login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Login Screen](https://github.com/Yudis86/UKL-MusicApp/blob/main/Screenshot 2025-05-22 200624?raw=true)
